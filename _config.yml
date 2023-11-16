@@ -14,16 +14,16 @@ timezone: Europe/Oslo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: atus'' docs # the main title
+title: atus' docs # the main title
 
 tagline: Sharing ideas and code # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  This site is not supposed ot be indexed. Respect the robots.txt
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://wiki.tus.hr"
+url: ""
 
 github:
   username: atus # change to your github username
